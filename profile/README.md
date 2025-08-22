@@ -1,6 +1,3 @@
-# Devs Unit 🚀  
-*Software Development Agency | Islamabad, Pakistan*  
-
 Welcome to **Devs Unit**!  
 We are a full-service **software development agency**, specializing in building **customized, scalable, and efficient software solutions** that align with your business goals.  
 
