@@ -1,14 +1,14 @@
 Welcome to **Devs Unit**!  
 We are a full-service **software development agency**, specializing in building **customized, scalable, and efficient software solutions** that align with your business goals.  
 
-Our strength lies in **1-on-1 collaboration** — working closely with organizations to craft tailor-made digital products with a focus on **mutual understanding and shared success**.  
+Our strength lies in **1-on-1 collaboration** working closely with organizations to craft tailor-made digital products with a focus on **mutual understanding and shared success**.  
 
 ---
 
 ## 💡 What We Do
-- 🌐 **Web Development** — Modern, responsive, and scalable web applications  
-- 📱 **Mobile Applications** — Android & cross-platform apps  
-- ⚙️ **Full-Scale Software Systems** — From concept to deployment  
+- 🌐 **Web Development**: Modern, responsive, and scalable web applications  
+- 📱 **Mobile Applications**: Android & cross-platform apps  
+- ⚙️ **Full-Scale Software Systems**: From concept to deployment  
 
 We ensure strong communication, transparency, and full client engagement throughout the development journey.  
 
@@ -65,4 +65,4 @@ Interested in collaborating with us?
 
 ---
 
-© 2025 **Devs Unit** — All Rights Reserved
+© 2026 **Devs Unit** - All Rights Reserved
